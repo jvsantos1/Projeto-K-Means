@@ -46,6 +46,6 @@ Os principais resultados incluem:
 ## Autores
 
 Projeto desenvolvido por: 
-**Arthur Lago Martis**.
+**Arthur Lago Martis**<br>
 **João Victor Oliveira Santos**.
 
