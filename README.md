@@ -10,13 +10,12 @@ O projeto é dividido nas seguintes pastas:
 
 - **data/**: Contém o dataset original.
 - **scripts/**: Contém o código Python utilizado para a análise e aplicação do algoritmo.
-- **notebooks/**: (Se necessário) Para armazenar qualquer notebook Jupyter.
   
 ## Como Executar
 
 1. Clone o repositório:
     ```bash
-    git clone <URL_DO_REPOSITORIO>
+    git clone <https://github.com/jvsantos1/Projeto-K-Means>
     ```
 
 2. Instale as dependências:
