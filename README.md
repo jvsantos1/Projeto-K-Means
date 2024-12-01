@@ -45,7 +45,7 @@ Os principais resultados incluem:
 
 ## Autores
 
-Projeto desenvolvido por: 
+Projeto desenvolvido por: <br>
 **Arthur Lago Martis**<br>
 **João Victor Oliveira Santos**.
 
